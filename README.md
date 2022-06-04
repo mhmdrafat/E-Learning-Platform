@@ -1,1 +1,1 @@
-# DesignPatternsProject
+# Design Patterns Project
