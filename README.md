@@ -1,4 +1,5 @@
-# Design Patterns Project that simulate e-learning platform as u can do the following :
+# e-learning platform
+#### Design Patterns Project that simulate e-learning platform as u can do the following : ####
   - Enroll : 
     - Student
     - TA
