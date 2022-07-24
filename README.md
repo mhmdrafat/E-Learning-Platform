@@ -1,1 +1,12 @@
-# Design Patterns Project
+# Design Patterns Project that simulate e-learning platform as u can do the following :
+  - Enroll : 
+    - Student
+    - TA
+    - Professor
+  - Add : 
+    - Assignment
+    - Exam
+  - manage Course and it operation
+  - Post ( by SMS or Email ) :
+    - Announcment
+    - grades
