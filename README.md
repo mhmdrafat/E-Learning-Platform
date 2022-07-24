@@ -6,7 +6,7 @@
   - Add : 
     - Assignment
     - Exam
-  - manage Course and it operation
+  - manage Course and its operation
   - Post ( by SMS or Email ) :
     - Announcment
     - grades
